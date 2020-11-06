@@ -1,0 +1,6 @@
+projectKey=PiyushSharma-3397043-3397040-1604495581077
+serverUrl=http://13.126.232.53:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://13.126.232.53:9000/dashboard/index/PiyushSharma-3397043-3397040-1604495581077
+ceTaskId=AXWXVjcZRwBhxuT50ROJ
+ceTaskUrl=http://13.126.232.53:9000/api/ce/task?id=AXWXVjcZRwBhxuT50ROJ

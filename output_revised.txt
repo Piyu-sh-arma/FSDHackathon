@@ -1,0 +1,17 @@
+
+testDeleteStock=false
+testDeleteCompany=true
+testDeleteStockBDD=true
+testFindAllCompanies=true
+testFindStockByCompanyCodeBDD=true
+testFindCompanyInfoById=true
+testAddStock=false
+testFindAllCompaniesBDD=true
+testAddStockBDD=false
+testFindCompanyInfoByIdBDD=true
+testDeleteCompanyBDD=true
+testAddCompanyBDD=false
+testFindStockByCompanyCode=false
+testStockPriceIndex=false
+testStockPriceIndexBDD=false
+testAddCompany=false
